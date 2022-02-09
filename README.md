@@ -8,4 +8,7 @@ Instructor: Dr. Angela Yu
 **Day 1:** Band name generator\
 **Day 2:** Tip calculator\
 **Day 3:** Treasure island\
-**Day 4:** 
+**Day 4:** Rock Paper Scissors\
+**Day 5:** Password generator\
+**Day 6:** Maze solver\
+**Day 7:** 
