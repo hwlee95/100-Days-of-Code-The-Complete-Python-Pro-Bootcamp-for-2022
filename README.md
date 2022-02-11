@@ -5,10 +5,17 @@ Instructor: Dr. Angela Yu
 
 ## Overview
 
-**Day 1:** Band name generator\
-**Day 2:** Tip calculator\
-**Day 3:** Treasure island\
+### Beginner
+**Day 1:** Band Name Generator\
+**Day 2:** Tip Calculator\
+**Day 3:** Treasure Island\
 **Day 4:** Rock Paper Scissors\
-**Day 5:** Password generator\
-**Day 6:** Maze solver\
-**Day 7:** 
+**Day 5:** Password Generator\
+**Day 6:** Maze Solver\
+**Day 7:** Hangman\
+**Day 8:** Caesar Cipher\
+**Day 9:** Secret Auction\
+**Day 10:** Calculator\
+**Day 11:** 
+
+### Intermediate
