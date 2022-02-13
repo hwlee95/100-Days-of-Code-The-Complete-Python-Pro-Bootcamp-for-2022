@@ -16,6 +16,10 @@ Instructor: Dr. Angela Yu
 **Day 8:** Caesar Cipher\
 **Day 9:** Secret Auction\
 **Day 10:** Calculator\
-**Day 11:** 
+**Day 11:** BlackJack\
+**Day 12:** Guessing Random Number\
+**Day 13:** Debugging exercise (no project)\
+**Day 14:** Higher Lower Game\
 
 ### Intermediate
+**Day 15:** 
