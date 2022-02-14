@@ -22,4 +22,5 @@ Instructor: Dr. Angela Yu
 **Day 14:** Higher Lower Game\
 
 ### Intermediate
-**Day 15:** 
+**Day 15:** Coffee Machine\
+**Day 16:** 
