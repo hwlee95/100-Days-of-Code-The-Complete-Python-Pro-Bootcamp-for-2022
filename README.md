@@ -23,4 +23,5 @@ Instructor: Dr. Angela Yu
 
 ### Intermediate
 **Day 15:** Coffee Machine\
-**Day 16:** 
+**Day 16:** Coffee Machine (OOP)\
+**Day 17:** 
