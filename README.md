@@ -19,9 +19,10 @@ Instructor: Dr. Angela Yu
 **Day 11:** BlackJack\
 **Day 12:** Guessing Random Number\
 **Day 13:** Debugging exercise (no project)\
-**Day 14:** Higher Lower Game\
+**Day 14:** Higher Lower Game
 
 ### Intermediate
 **Day 15:** Coffee Machine\
 **Day 16:** Coffee Machine (OOP)\
-**Day 17:** 
+**Day 17:** True or False Game\
+**Day 18:** 
